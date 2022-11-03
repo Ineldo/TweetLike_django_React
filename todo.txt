@@ -1,0 +1,26 @@
+1. Tweets
+    ->Creating:
+        ->text 
+        ->Image
+    ->Delete
+    ->Retweeting:
+
+2. Users
+    ->Register
+    ->Login
+    ->Logout
+    ->Profile:
+        ->Image
+        ->Text
+        ->follow button
+    ->Feed:
+        ->User's feed only
+        ->User's + who they follow
+
+3. Following/Followers
+
+
+Long Term todos
+-Notifications
+-DM
+-Explore ->finding hastags
